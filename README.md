@@ -96,24 +96,13 @@ Built with modern web technologies, Aqarat offers a responsive, intuitive interf
 > **Note**: Add your screenshots here by replacing the placeholder paths with actual screenshot files
 
 ### Dashboard Overview
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](one.png)
 *Main dashboard showing key metrics and quick actions*
 
 ### Lead Management
-![Leads](./screenshots/leads.png)
+![Leads](two.png)
 *Lead management interface with filtering and conversion tools*
 
-### Property Listings
-![Properties](./screenshots/properties.png)
-*Property management with grid and list views*
-
-### Deal Pipeline
-![Pipeline](./screenshots/pipeline.png)
-*Visual deal pipeline with drag-and-drop functionality*
-
-### Contact Profiles
-![Contacts](./screenshots/contacts.png)
-*Comprehensive contact profiles and communication history*
 
 ---
 
